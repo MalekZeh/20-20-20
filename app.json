@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "20-20-20",
+    "slug": "raahat-alain",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#4A90D9"
+    },
+    "android": {
+      "package": "com.malekzeh.raahatalain",
+      "permissions": ["NOTIFICATIONS"]
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}
