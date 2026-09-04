@@ -7,7 +7,8 @@
     "userInterfaceStyle": "light",
     "android": {
       "package": "com.malekzeh.raahatalain",
-      "permissions": ["NOTIFICATIONS"]
+      "permissions": ["NOTIFICATIONS"],
+      "backgroundColor": "#4A90D9"
     },
     "plugins": [
       "expo-notifications"
