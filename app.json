@@ -5,10 +5,13 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#4A90D9",
+      "resizeMode": "contain"
+    },
     "android": {
       "package": "com.malekzeh.raahatalain",
-      "permissions": ["NOTIFICATIONS"],
-      "backgroundColor": "#4A90D9"
+      "permissions": ["NOTIFICATIONS"]
     },
     "plugins": [
       "expo-notifications"
